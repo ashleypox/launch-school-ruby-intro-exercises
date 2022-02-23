@@ -1,0 +1,3 @@
+Exception handling tells your program what to do when encountering 
+exceptions in ‘real life’ execution; without exception handling, the program 
+may just quit when it encounters an error instead of continuing to the next line. 

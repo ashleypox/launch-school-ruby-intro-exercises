@@ -1,0 +1,6 @@
+What do the following expressions evaluate to?
+1. 2. Variable assignment will return the value that is assigned. 
+2. 2 / nil. Puts “2”, but returns NIL because puts always returns nil. 
+3. Joe. p is a method that will output argument, then return argument. 
+4. Four. variable assignment again, same as x = 2
+5. Nil. prints nothing, returns nil. Print method does not give output a new line.
