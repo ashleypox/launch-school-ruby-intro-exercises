@@ -1,0 +1,2 @@
+An array and a hash are sorted differently; 
+a hash uses key:value pairs to sort information, and an array uses only indices.
